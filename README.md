@@ -2,4 +2,4 @@
 
 [![Xethrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xethrus)](https://github.com/Xethrus/github-readme-stats)
 
-[![Xethrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xethrus)](https://github.com/Xethrus/github-readme-stats)
+![Xethrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=xethrus&show_icons=true&theme=radical)
